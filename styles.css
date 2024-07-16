@@ -1,0 +1,15 @@
+.ds{
+  color:purple;
+}
+.img{
+  width: 600px;
+  hieght:60px;
+  border-radius:20px;
+}
+.profile{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  corner-radius:30px;
+  height:30;
+}
